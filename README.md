@@ -1,3 +1,7 @@
+![Screenshot](./assets/Dre0239_readmepic.png)
+
+
+
 ### Hi there 👋, thank you for stopping by!
 
 Welcome to my web development journey! This repository contains my projects and experiments as I explore web development's vast and ever-evolving realm, aiming to grow my skills and contribute to the digital world.
