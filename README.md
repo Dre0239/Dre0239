@@ -10,7 +10,7 @@ Welcome to my web development journey! This repository contains my projects and 
 
 🌍 Fun fact: Besides my love for web development, I have an adventurous spirit and enjoy exploring new destinations while indulging in my passion for playing poker.
 
-📬 Reach me at: almays29@gmail.com
+📬 Reach me at: mayscoding239@gmail.com
 
 <!--
 **Dre0239/Dre0239** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
